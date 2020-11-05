@@ -26,19 +26,9 @@ optimal efficiency.
  
 
 ### 3.Now, drag the mouse cursor to draw the black border
-
-* ![count pokemon type](https://user-
-
-images.githubusercontent.com/64283478/95459008-a437e800-0990-11eb-9dba-
-
-0266ed21754c.png)
-
-
-
-### 4.Press the SPACE button and wait until the endpoint reach.
 * ![black](https://user-images.githubusercontent.com/64283478/98241064-65498200-1f90-11eb-93e8-b1bb4cf01087.PNG)
 
 
 
-### 5.Press the SPACE button and wait until the endpoint reach.
+### 4.Press the SPACE button and wait until the endpoint reach.
 * ![process](https://user-images.githubusercontent.com/64283478/98241061-637fbe80-1f90-11eb-80b1-496d9f12c436.PNG)
