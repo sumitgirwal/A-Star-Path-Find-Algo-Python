@@ -1,6 +1,6 @@
 # A-Star-Path-Find-Algo-Python
 
-In this project, Pygame used for establishing the A* algorithm.
+In this project, * pygame * * math *  * PriorityQueue *   used for establishing the A* algorithm.
 
 ## What is the A* algorithm?
 ### A* is a graph traversal and path search algorithm, which is often used in many fields of computer science due to its completeness, optimality, and optimal efficiency. 
