@@ -5,6 +5,8 @@
 ## What is the A* algorithm?
 ### A* is a graph traversal and path search algorithm, which is often used in many fields of computer science due to its completeness, optimality, and optimal efficiency. 
  
+## Working
+![Astar gif](https://user-images.githubusercontent.com/64283478/98511506-c91ec400-228a-11eb-9797-1329189e5f04.gif)
 
 
 ## In A* algorithm, there are such steps :
