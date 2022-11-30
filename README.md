@@ -5,12 +5,15 @@
 ## What is the A* algorithm?
 ### A* is a graph traversal and path search algorithm, which is often used in many fields of computer science due to its completeness, optimality, and optimal efficiency. 
  
+## Setup
+- Install require packages `pip install -r requirements.txt`
+- Run  `python main.py`
+
 ## Working
 ![Astar gif](https://user-images.githubusercontent.com/64283478/98511506-c91ec400-228a-11eb-9797-1329189e5f04.gif)
 
 
-## In A* algorithm, there are such steps :
-
+## In A* algorithm, How to use - there are such steps :
 
 ### 1.Click any box for *start* position
 ![start](https://user-images.githubusercontent.com/64283478/98241015-519e1b80-1f90-11eb-997e-aae4ac98ed3b.PNG)
